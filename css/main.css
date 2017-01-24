@@ -22,12 +22,17 @@ html {
 
 .hand {
   width: 14px;
+  position: absolute;
 }
 
 .hand-hour {
+  left: 48%;
+  top: 87px;
+
 
 }
 
 .hand-minute {
-
+  left: 48%;
+  top: 77px;
 }
