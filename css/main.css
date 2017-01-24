@@ -30,7 +30,7 @@ html {
   left: 48%;
   top: 90px;
   transform-origin: center bottom;
-  animation: spin 6s linear;
+  animation: spin 6s linear infinite;
 
 }
 
@@ -38,7 +38,7 @@ html {
   left: 48%;
   top: 70px;
   transform-origin: center bottom;
-  animation: spin 6s linear infinite;
+  animation: spin 1s linear infinite;
 }
 
 @keyframes spin {
